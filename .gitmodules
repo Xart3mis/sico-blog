@@ -1,0 +1,11 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod/
+[submodule "xart3mis.github.io"]
+	path = xart3mis.github.io
+	url = https://github.com/Xart3mis/xart3mis.github.io
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/Xart3mis/xart3mis.github.io
+	branch = main
